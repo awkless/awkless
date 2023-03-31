@@ -23,6 +23,24 @@
 - Likes playing old Nintendo games via emulators.
 - Attends New Mexico State University.
 
+## Skills
+
+### Years of Practice
+
+- C (C89/C90, C99, C11).
+- C++ (11, 14, 17).
+- Java (8, 11).
+- Shell script (POSIX, bash).
+- Linux administration.
+- HTML 5.
+- CSS.
+- Git [>= 1.20].
+
+### Learning
+
+- Rust [>= 1.49].
+- Python 3.
+
 ## Statistics
 
 <img
