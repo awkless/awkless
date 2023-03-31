@@ -43,14 +43,29 @@
 
 ## Statistics
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awkless&langs_count=5&theme=tokyonight"
-  alt="Awkless' Top Languages"
-/>
+<table border="0" align="center">
+  <tr border="0">
+  <td width="50%" align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awkless&langs_count=5&theme=tokyonight"
+    alt="Awkless' Top Languages"
+  />
+  </td>
 
-<img
-  align="right"
-  src="https://github-readme-stats.vercel.app/api/?username=awkless&count_private=true&theme=tokyonight&showicons=true"
-  alt="Awkless' GitHub Stats"
-/>
+  <td width="50%" align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/?username=awkless&count_private=true&theme=tokyonight&showicons=true"
+    alt="Awkless' GitHub Stats"
+  />
+  </td>
+  </tr>
+
+  <tr border="0">
+  <td colspan="2" width="50%" align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=awkless&theme=onedark"
+    alt="Awkless trophies"
+  />
+  </td>
+  </tr>
+</table>
