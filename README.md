@@ -16,6 +16,13 @@
                               \___)=(___/
 ```
 
+## About
+
+- Self taught computer programmer.
+- Love using and ricing Unix-like distributions.
+- Likes playing old Nintendo games via emulators.
+- Attends New Mexico State University.
+
 ## Statistics
 
 <img
