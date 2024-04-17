@@ -23,8 +23,11 @@ SPDX-License-Identifier: MIT
 
 ## About Me
 
-I am a self-taught coder that likes using Linux, and writing custom emulators in
-C and C++.
+I am a self-taught coder that likes ricing Linux distributions, and writing
+emulators for old hardware.
+
+Currently an undergraduate at New Mexico State University. Planning on
+graduating in Fall 2024 for a bachlors in Computer Science.
 
 ## Statistics
 
