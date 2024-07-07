@@ -11,21 +11,12 @@ SPDX-License-Identifier: MIT
   </a>
 </div>
 
-```
- ___________________________________________________________________
-/ Through the application of knowledge can great destruction arise. \
-\                                      -- Fabricator General Isotor /
- -------------------------------------------------------------------
-                               \
-                                \
-                                  .--.
-                                 |O_⚙ |
-                                 |:_/ |
-                                //   \ \
-                               (|     | )
-                              /'\_   _/`\
-                              \___)=(___/
-```
+<p align="center">
+  <img
+    src="image/banner.png"
+    alt="My Banner"
+  />
+</p>
 
 ## About Me
 
