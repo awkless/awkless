@@ -5,18 +5,18 @@ SPDX-License-Identifier: MIT
 
 # Awklesses' GitHub Profile
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jason-pena-awkless">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <p align="center">
   <img
     src="image/banner.png"
     alt="My Banner"
   />
 </p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jason-pena-awkless">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ## About Me
 
