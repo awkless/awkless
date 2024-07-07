@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: 2023 Jason Pena <jasonpena@awkless.com>
 SPDX-License-Identifier: MIT
 -->
 
-# Awkless' Profile
+# Awklesses' Profile
 
 ```
  ___________________________________________________________________
@@ -31,36 +31,21 @@ graduating in Fall 2024 for a bachlors in Computer Science.
 
 ## Statistics
 
-<table border="0" align="center">
-  <tr border="0">
-  <td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awkless&langs_count=5&theme=tokyonight"
-    alt="Awkless' Top Languages"
-  />
-  </td>
-
-  <td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/?username=awkless&count_private=true&theme=tokyonight&showicons=true"
-    alt="Awkless' GitHub Stats"
-  />
-  </td>
-  </tr>
-</table>
-
-<table border="0" align="center">
-  <tr border="0">
-  <td colspan="2" width="50%" align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=awkless&theme=onedark"
-    alt="Awkless trophies"
-  />
-  </td>
-  </tr>
-</table>
-
 <p align="center">
   Vistor count<br>
   <img src="https://profile-counter.glitch.me/awkless/count.svg" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/?username=awkless&count_private=true&theme=tokyonight&showicons=true"
+    alt="Awklesses' GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=awkless&theme=tokyonight"
+    alt="Awklesses' Streak Stats"
+  />
 </p>
