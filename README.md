@@ -3,7 +3,13 @@ SPDX-FileCopyrightText: 2023 Jason Pena <jasonpena@awkless.com>
 SPDX-License-Identifier: MIT
 -->
 
-# Awklesses' Profile
+# Awklesses' GitHub Profile
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jason-pena-awkless">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ```
  ___________________________________________________________________
