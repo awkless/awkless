@@ -16,9 +16,6 @@ SPDX-License-Identifier: MIT
   <a href="https://www.linkedin.com/in/jason-pena-awkless">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sr.ht/~awkless/">
-    <img src="https://img.shields.io/badge/sourcehut-222222?style=for-the-badge"/>
-  </a>
 </div>
 
 ## About Me
@@ -34,10 +31,7 @@ tools for system administration, further enhancing my technical expertise.
 ## Statistics
 
 > __WARNING__: The following stats only show my activity on GitHub, which is not
-> accurate to my full activity across the forges mailing lists I use.
-
-> __NOTE__: See my sourcehut account, or the toybox mailing list archive for
-> more of the stuff I have been doing.
+> accurate to my full activity across the forges and mailing lists I use.
 
 <p align="center">
   Vistor count<br>
@@ -46,14 +40,21 @@ tools for system administration, further enhancing my technical expertise.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/?username=awkless&count_private=true&theme=tokyonight&showicons=true"
-    alt="Awklesses' GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=awkless&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    alt="Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=awkless&theme=tokyonight"
-    alt="Awklesses' Streak Stats"
+    src="https://streak-stats.demolab.com?user=awkless&theme=tokyonight&hide_border=true"
+    alt="Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awkless&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
+    alt="Top Languages"
   />
 </p>
