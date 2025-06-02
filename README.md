@@ -20,13 +20,10 @@ SPDX-License-Identifier: MIT
 
 ## About Me
 
-I am an aspiring, self-taught software developer and systems administrator with
-a deep passion for exploring and optimizing computer systems. As an adaptable
-critical thinker, I am consistently eager to stay at the forefront of emerging
-technologies. I possess a strong foundation in software project design and
-management, combined with practical experience in delivering innovative
-solutions. In my spare time, I design and develop emulators and general-purpose
-tools for system administration, further enhancing my technical expertise.
+I am a recent Computer Science graduate from New Mexico State University with
+hands-on experience in systems programming, Linux server administration, and
+open-source software development. I am proficient in Rust, C/C++, and Java, with
+a passion for building robust CLI tools, emulators, and server infrastructure.
 
 ## Statistics
 
